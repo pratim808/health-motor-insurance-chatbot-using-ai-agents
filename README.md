@@ -58,7 +58,7 @@ The notebook contains the following logic, organized into cells:
 
 ### Installation
 
-1.  Download the `Insurance_Chatbot.ipynb` file.
+1.  Download the `insurance_ai_agents.ipynb` file.
 2.  Open the Jupyter Notebook using your preferred environment.
 3.  Run the first cell to install the required Python libraries:
 
